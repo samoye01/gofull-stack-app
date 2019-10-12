@@ -1,1 +1,0 @@
-# gofull-stack-app
